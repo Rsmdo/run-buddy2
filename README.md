@@ -1,4 +1,4 @@
-# run-buddy2
+# Run buddy Inc
 
 # Run Buddy
 
@@ -12,4 +12,4 @@ A website that offers fitness training services.
 ## Website
 
 ## Contribution
-Made with ❤️ by Royden 
+Made with ❤️ by Royden
